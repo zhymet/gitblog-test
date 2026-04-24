@@ -14,7 +14,7 @@ repo-root/
 ```
 
 ## gitblog config.json schema
-```
+``` json
 {
   "version": 1,
   "title": "Github Repo Title",
