@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "title": "My blog title.",
-  "brief": "My blog brief.",
-
+  "title": "My blog title!!!!!",
+  "brief": "My blog brief!!!!!!",
   "posts_dir": "posts",
   "about_file_path": ".gitblog/about.md"
 }
