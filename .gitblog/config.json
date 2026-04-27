@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "my-blog",
+  "title": "My blog title.",
+  "brief": "My blog brief.",
+
+  "posts_dir": ".gitblog/posts",
+  "about_file_path": ".gitblog/about.md",
+}
