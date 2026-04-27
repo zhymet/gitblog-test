@@ -4,5 +4,5 @@
   "brief": "My blog brief.",
 
   "posts_dir": "posts",
-  "about_file_path": ".gitblog/about.md",
+  "about_file_path": ".gitblog/about.md"
 }
