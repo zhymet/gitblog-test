@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "title": "My blog title!!!!!",
-  "brief": "My blog brief!!!!!!",
+  "title": "How to make a cool website using Node.js and React",
+  "brief": "Starting guide on how to use a MongoDb + Node.js backend with a React frontend to create a cool website. ",
   "posts_dir": "posts",
   "about_filepath": ".gitblog/about.md"
 }
