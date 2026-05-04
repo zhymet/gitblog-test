@@ -1,4 +1,4 @@
-# Lorem Ipsum (SYNC TEST)
+# Lorem Ipsum
 
 ![React](https://logohub.dev/api/v1/logos/react?size=64)
 
