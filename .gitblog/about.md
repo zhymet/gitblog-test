@@ -65,11 +65,19 @@ Create and preview Markdown instantly with **GitHub Flavored Markdown (GFM)** su
 #### JavaScript Example
 ```javascript
 function greet(name) {
-  console.log(`Hello, ${name}!`);
+  console.log(`Hello, my name is Anton!`);
 }
 
 // Call the function
 greet('Markdown');
+```
+
+```cpp
+#include <iostream>
+int main(){
+  std::cout << "Hello from C++" << std::endl;
+  return 0;
+}
 ```
 
 #### Python Example
