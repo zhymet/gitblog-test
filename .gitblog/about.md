@@ -1,4 +1,4 @@
-# GitBlog Markdown Features Preview
+# GitBlog Markdown Features
 
 Experience the **fastest**, *most intuitive*, and ~~hassle-free~~ Markdown editor online!  
 Create and preview Markdown instantly with **GitHub Flavored Markdown (GFM)** support.  
