@@ -33,6 +33,8 @@ Future Features:
 - **Bold** → `**Bold**` → **Bold**  
 - *Italic* → `*Italic*` → *Italic*  
 - ~~Strikethrough~~ → `~~Strikethrough~~` → ~~Strikethrough~~
+- <sup>Superscript</sup> → `<sup>Superscript</sup>`  
+- <sub>Subscript</sub> → `<sub>Subscript</sub>` 
 
 ## Lists  
 
@@ -99,11 +101,5 @@ result = calculate_sum([1, 2, 3, 4, 5])
 print(f"The sum is: {result}")
 ```
 
-## Mermaid Diagrams
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+## Youtube Links
+[GitHub Markdown Guide](https://www.youtube.com/watch?v=LxeclcePg-c)
