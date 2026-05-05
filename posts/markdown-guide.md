@@ -98,3 +98,12 @@ def calculate_sum(numbers):
 result = calculate_sum([1, 2, 3, 4, 5])
 print(f"The sum is: {result}")
 ```
+
+## Mermaid Diagrams
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
