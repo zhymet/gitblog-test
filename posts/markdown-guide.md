@@ -15,10 +15,6 @@ Current Features:
 - Blockquotes
 - Code Blocks w/Syntax Highlighting
 
-Future Features:
-- Mermaid Diagrams
-- Inline HTML Support
-
 ## Headings  
 
 # H1 - Largest Heading  
@@ -100,6 +96,3 @@ def calculate_sum(numbers):
 result = calculate_sum([1, 2, 3, 4, 5])
 print(f"The sum is: {result}")
 ```
-
-## Youtube Links
-[GitHub Markdown Guide](https://www.youtube.com/watch?v=LxeclcePg-c)
