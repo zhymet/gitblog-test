@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "title": "Programming Guides",
-  "brief": "Tips, tricks and guides for programmers. Ranging from systems programming to client server. C++, CMake, Node.js, React.",
+  "title": "GitBlog Official",
+  "brief": "Tips, guides, and news for GitBlog users.",
   "posts_dir": "posts",
   "about_filepath": ".gitblog/about.md"
 }
